@@ -11,3 +11,9 @@ DEPORTES:
 	Futbol
 	Baloncesto
 	Volleyplaya
+
+FAVORITAS:
+
+	Como Camaron
+	Gulere Gulere
+	Mundo Marron
